@@ -2,4 +2,5 @@ abcd
 def
 reset-1
 reset-2
-reset-3 revert
+revert3
+revert4
